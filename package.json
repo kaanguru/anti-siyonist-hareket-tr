@@ -1,0 +1,19 @@
+{
+  "name": "anti-siyonist-hareket-tr",
+  "version": "1.0.0",
+  "description": "AntiSiyonistHareketTR internet sitesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "Cem Kaan Kösalı",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.45",
+    "vue": "^3.4.21"
+  }
+}
